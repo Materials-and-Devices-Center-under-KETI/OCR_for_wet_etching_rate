@@ -5,8 +5,9 @@ This program was developed based on our dear operator Dr. J. Yoon's requests ðŸ˜
 <br>
 
 **&lt;PROJECT OVERVIEW&gt;**
-  
+<p align='center'> 
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
+</p>
 <div align="center">Fig. 1. This program aims to effectively measure the wet etching rate and surface uniformity of Si samples. Courtesy of Dr. Yoon.</div> 
 <br>
 
