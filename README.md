@@ -2,9 +2,9 @@
 This program was developed based on our dear operator Mr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of semiconductor samples. 
 
 **&lt;PROJECT OVERVIEW&gt;**
-<br>
+<br><br>
 ![Alt text](images/ocr_img2.png)
-<br>
+<br><br>
 
 **&lt;BREIF INTRODUCTION&gt;**
 <br>
