@@ -3,7 +3,7 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
 
 **&lt;PROJECT OVERVIEW&gt;**
 <br><br>
-![Alt text](images/ocr_img2.png)
+<img src="images/ocr_img2.png" alt="Alt text" width="600" />
 <br><br>
 
 **&lt;BREIF INTRODUCTION&gt;**
@@ -13,7 +13,7 @@ This program operates on top of the etch rate measurement application and is des
 </div>
 <br>
 
-![Alt text](images/ocr_img.png)
+<img src="images/ocr_img.png" alt="Alt text" width="600" />
 <br>
 <div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. 
   <br>The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
@@ -29,7 +29,6 @@ This program operates on top of the etch rate measurement application and is des
     <td><img src="images/ocr_window2.png" width="400"/></td>
   </tr>
 </table>
-<br>
 <div align="center">Fig. 2. Measurement window (left) and visualization window (right)</div> 
 <br>
 Detailed information on each button is available in the user guide.
