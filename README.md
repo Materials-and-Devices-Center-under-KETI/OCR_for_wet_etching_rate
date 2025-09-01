@@ -1,5 +1,5 @@
 # Measurement of Wet Etching Rate
-This program was developed based on our dear operator Dr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of Si samples. 
+This program was developed based on our dear operator Dr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate and surface uniformity of Si samples. 
 
 
 <br>
@@ -7,7 +7,7 @@ This program was developed based on our dear operator Dr. J. Yoon's requests �
 **&lt;PROJECT OVERVIEW&gt;**
   
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
-<div align="center">Fig. 1. This program aims to effectively measure the wet etching rate of Si samples. Courtesy of Dr. Yoon.</div> 
+<div align="center">Fig. 1. This program aims to effectively measure the wet etching rate and surface uniformity of Si samples. Courtesy of Dr. Yoon.</div> 
 <br>
 
 **&lt;BREIF INTRODUCTION&gt;**
