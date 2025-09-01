@@ -8,7 +8,7 @@ This program operates on top of the etch rate measurement application and is des
 
 ![Alt text](images/ocr_img.png)
 <br>
-<div align="justify">Fig. 1. Example of program execution screen</div> 
+<div align="center">Fig. 1. Example of program execution screen. The UI in the figure is outdated the latest version taks the form in the following firues.</div> 
 
 <table>
   <tr>
