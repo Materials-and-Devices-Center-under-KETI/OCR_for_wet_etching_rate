@@ -8,12 +8,14 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
 **&lt;PROJECT OVERVIEW&gt;**
   
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
-</p>
+
 <br><br>
-<p align='center'>
+
   
 **&lt;BREIF INTRODUCTION&gt;**
+
 </p>
+
 <br>
 <div align="justify"> 
 This program operates on top of the etch rate measurement application and is designed to position itself over the area where the measurement data are logged as in Fig. 1. It first saves the area as an image file (.PNG) as a backup, read the figures with the optical character recognition engine Tesseract, and save them in an Excel file (.CSV). 
