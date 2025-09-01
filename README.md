@@ -3,7 +3,9 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
 
 **&lt;PROJECT OVERVIEW&gt;**
 <br><br>
+<p align='center'>
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
+</p>
 <br><br>
 
 **&lt;BREIF INTRODUCTION&gt;**
@@ -12,8 +14,9 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
 This program operates on top of the etch rate measurement application and is designed to position itself over the area where the measurement data are logged as in Fig. 1. It first saves the area as an image file (.PNG) as a backup, read the figures with the optical character recognition engine Tesseract, and save them in an Excel file (.CSV). 
 </div>
 <br>
-
+<p align='center'>
 <img src="images/ocr_img.png" alt="Alt text" width="600" />
+</p>
 <br>
 <div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. 
   <br>The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
