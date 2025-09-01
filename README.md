@@ -1,5 +1,5 @@
 # Measurement of Wet Etching Rate
-This program was developed based on our dear operator Mr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of semiconductor samples. 
+This program was developed based on our dear operator Mr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of Si samples. 
 
 **&lt;PROJECT OVERVIEW&gt;**
 <br><br>
