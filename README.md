@@ -6,7 +6,7 @@ then uses the optical character recognition engine Tesseract to read the data an
 The program is designed to position itself over the area where the measurement data is read when executed.
 </div>
 
-![Alt text](images/ocr_img.jpg)
+![Alt text](images/ocr_img.png)
 
 <table>
   <tr>
