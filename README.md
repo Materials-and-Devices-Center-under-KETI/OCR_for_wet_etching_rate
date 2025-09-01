@@ -36,4 +36,4 @@ This program operates on top of the etch rate measurement application and is des
 </table>
 <div align="center">Fig. 3. Measurement window (left) and visualization window (right)</div> 
 <br>
-Detailed information on each button is available in the user guide.
+* Detailed information on each button is available in the user guide.
