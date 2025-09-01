@@ -4,7 +4,9 @@ This program was developed based on our dear operator Dr. J. Yoon's requests ðŸ˜
 
 <br>
 
+<p align='center'> 
 **&lt;PROJECT OVERVIEW&gt;**
+</p>
 <p align='center'> 
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
 </p>
