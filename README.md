@@ -3,9 +3,8 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
 
 **&lt;PROJECT OVERVIEW&gt;**
 <br>
-<div align="justify">
-  
-</div>
+![Alt text](images/ocr_img2.png)
+<br>
 
 **&lt;BREIF INTRODUCTION&gt;**
 <br>
