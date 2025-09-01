@@ -8,7 +8,7 @@ This program was developed based on our dear operator Mr. J. Yoon's requests ðŸ˜
   
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
 
-<br><br>
+<br>
 
 **&lt;BREIF INTRODUCTION&gt;**
 
