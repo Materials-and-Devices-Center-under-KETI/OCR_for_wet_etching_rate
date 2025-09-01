@@ -2,19 +2,15 @@
 This program was developed based on our dear operator Mr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of Si samples. 
 
 
-<br><br>
-<p align='center'>
-  
+<br>
+
 **&lt;PROJECT OVERVIEW&gt;**
   
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
 
 <br><br>
 
-  
 **&lt;BREIF INTRODUCTION&gt;**
-
-</p>
 
 <br>
 <div align="justify"> 
