@@ -8,7 +8,12 @@ This program operates on top of the etch rate measurement application and is des
 
 ![Alt text](images/ocr_img.png)
 <br>
-<div align="center">Fig. 1. Example of program execution screen. The UI in the figure is outdated the latest version taks the form in the following firues.</div> 
+<div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
+<br>
+
+<div align="justify">
+  This program consists of two windows–measurement window and visualization window. First, the buttons on the measurement window excluding the plot button determine how to organize data. These functions are customized according to our dear operator Mr. J. Yoon's requests. This program basically aims to streamline his measurement and data analysis.
+</div>
 
 <table>
   <tr>
