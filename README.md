@@ -10,7 +10,8 @@ This program operates on top of the etch rate measurement application and is des
 
 ![Alt text](images/ocr_img.png)
 <br>
-<div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
+<div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. 
+  <br>The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
 <br>
 
 <div align="justify">
