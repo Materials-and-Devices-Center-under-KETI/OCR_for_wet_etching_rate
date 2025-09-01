@@ -1,5 +1,5 @@
 # Measurement of Wet Etching Rate
-This program was developed based on our dear operator Mr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of Si samples. 
+This program was developed based on our dear operator Dr. J. Yoon's requests 😊 and aims to streamline the measurement of the wet etching rate of Si samples. 
 
 
 <br>
@@ -7,7 +7,7 @@ This program was developed based on our dear operator Mr. J. Yoon's requests �
 **&lt;PROJECT OVERVIEW&gt;**
   
 <img src="images/ocr_img2.png" alt="Alt text" width="600" />
-
+<div align="center">Fig. 1. This program aims to effectively measure the wet etching rate of Si samples. Courtesy of Dr. Yoon.</div> 
 <br>
 
 **&lt;BREIF INTRODUCTION&gt;**
@@ -21,7 +21,7 @@ This program operates on top of the etch rate measurement application and is des
 <img src="images/ocr_img.png" alt="Alt text" width="600" />
 </p>
 <br>
-<div align="center">Fig. 1. Example of program execution screen, situated over the area where measurement data are logged. 
+<div align="center">Fig. 2. Example of program execution screen, situated over the area where measurement data are logged. 
   <br>The UI in the figure is outdated and the latest version taks the form in the following firues.</div> 
 <br>
 
@@ -35,6 +35,6 @@ This program operates on top of the etch rate measurement application and is des
     <td><img src="images/ocr_window2.png" width="400"/></td>
   </tr>
 </table>
-<div align="center">Fig. 2. Measurement window (left) and visualization window (right)</div> 
+<div align="center">Fig. 3. Measurement window (left) and visualization window (right)</div> 
 <br>
 Detailed information on each button is available in the user guide.
