@@ -15,7 +15,7 @@ This program operates on top of the etch rate measurement application and is des
 <br>
 
 <div align="justify">
-  This program consists of two windows–measurement window and visualization window. First, the buttons on the measurement window excluding the plot button determine how to organize data. These functions are customized according to the operator's needs.
+  This program consists of two windows–measurement window and visualization window. While the buttons in the measurement window are designed to help arrange data in an Excel file, the visualization window allows users to easily plot the data, identify faulty points, and estimate the degree of surface flatness. 
 </div>
 <br>
 <table>
@@ -25,6 +25,6 @@ This program operates on top of the etch rate measurement application and is des
   </tr>
 </table>
 <br>
-<div align="center">Fig. 2. Measurement window (left) and visualization window (right). While the buttons in the measurement window are designed to help arrange data in an Excel file, the visualization window allows users to easily plot the data, identify faulty points, and estimate the degree of surface flatness.</div> 
+<div align="center">Fig. 2. Measurement window (left) and visualization window (right)</div> 
 <br>
-For detailed information, refer to the user manual. 
+Detailed information on each button is available in the user guide.
