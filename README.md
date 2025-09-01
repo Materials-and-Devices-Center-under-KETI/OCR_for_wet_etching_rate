@@ -13,7 +13,9 @@ This program was developed based on our dear operator Dr. J. Yoon's requests ðŸ˜
 <div align="center">Fig. 1. This program aims to effectively measure the wet etching rate and surface uniformity of Si samples. Courtesy of Dr. Yoon.</div> 
 <br>
 
-**&lt;BREIF INTRODUCTION&gt;**
+<p align='center'> 
+&lt;BRIEF INTRODUCTION&gt;
+</p>
 
 <div align="justify"> 
 This program operates on top of the etch rate measurement application and is designed to position itself over the area where the measurement data are logged as in Fig. 1. It first saves the area as an image file (.PNG) as a backup, read the figures with the optical character recognition engine Tesseract, and save them in an Excel file (.CSV). 
